@@ -2,16 +2,16 @@
 <html>
 
 <head>
-    <title>Vladimir FIlipovic CV</title>
+    <title>Vladimir Filipovic CV</title>
 </head>
 
 <body>
 
-    <h1>This is text within heading 1 element</h1>
+    <h1>This is my CV</h1>
 
-
-
-    <p>This is text within element paragraph</p>
+    <p>I am teaching at Faculty of Economics</p>
+	
+	<img source='building.jpg'>
 
 </body>
 
