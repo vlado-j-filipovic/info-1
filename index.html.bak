@@ -9,9 +9,18 @@
 
     <h1>This is my CV</h1>
 
-    <p>I am teaching at Faculty of Economics</p>
-	
+    <p>I am teaching at <a href="http://www.ekof.bg.ac.rs">Faculty of Economics</a>
+	</p>
+
+	<p>
 	<img src="images/building.jpg" />
+	</p>
+	
+	<p>I am employed at <a href="http://www.matf.bg.ac.rs/eng">Faculty of Mathematics</a>
+	</p>
+
+	<p>I was guest proffesor at <a href="pmf.unibl.org">Faculty of Natural Sciences</a>
+	</p>
 
 </body>
 
