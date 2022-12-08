@@ -2,12 +2,12 @@
 <html>
 
 <head>
-    <title>Vladimir Filipovic CV</title>
+    <title>Vladimir Filipovic Info</title>
 </head>
 
 <body>
 
-    <h1>This is my CV</h1>
+    <h1>My CV</h1>
 
     <p>I am teaching at <a href="http://www.ekof.bg.ac.rs" target="blank">Faculty of Economics</a>
 	</p>
@@ -16,12 +16,37 @@
 	<img src="images/building.jpg" />
 	</p>
 	
-	<p>I am employed at <a href="http://www.matf.bg.ac.rs/eng">Faculty of Mathematics</a>
+	<p>I am employed at 
+	<a href="http://www.matf.bg.ac.rs/eng" target="blank">Faculty of Mathematics</a>
 	</p>
 
-	<p>I was guest proffesor at <a href="http://pmf.unibl.org">Faculty of Natural Sciences</a>
+	<p>I was guest 
+	proffesor at <a href="http://pmf.unibl.org" target="blank">Faculty of Natural Sciences</a>
 	</p>
 
+    <h1>Lessons</h1>
+	
+	<ul>
+	
+	<li> <a href="ex-02.html" target="blank">Lession 2</a> - elements kbd, pre </li>
+
+	<li> Lession 3 - resizing of the images </li>
+
+	<li> Lession 4 - centering of the images</li>
+	
+	</ul>
+
+
+    <h1>Examples</h1>
+	
+	<ul>
+	
+	<li> <a href="yes-no/no.html" target="blank">Bad example</a> - images <b>outside</b> of our web site </li>
+
+	<li> <a href="yes-no/yes.html" target="blank">Good example</a> - images <b>within</b> of our web site </li>
+	
+	</ul>
+	
 </body>
 
 </html>
