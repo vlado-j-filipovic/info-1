@@ -11,7 +11,7 @@
 
     <p>I am teaching at Faculty of Economics</p>
 	
-	<img source='building.jpg'>
+	<img source="building.jpg" />
 
 </body>
 
