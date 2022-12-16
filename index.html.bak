@@ -28,7 +28,9 @@
 
     <h1>Lessons</h1>
 	
-	<ul>
+	<ul  style='background-color:#33f; 
+font-family:Calibri, Arial, Helvetica, sans-serif; 
+color:#e22;'>
 	
 	<li> <a href="ex-02.html" target="blank">Lession 2</a> - elements kbd, pre </li>
 
@@ -43,6 +45,14 @@
 	<li> <a href="ex-07.html" target="blank">Lession 7</a> - table cell horizontal merge</li>
 
 	<li> <a href="ex-08.html" target="blank">Lession 8</a> - table cell vertical merge</li>
+
+	<li> <a href="ex-09.html" target="blank">Lession 9</a> - input text and submit button</li>
+
+	<li> <a href="ex-10.html" target="blank">Lession 10</a> - input radio button</li>
+
+	<li> <a href="ex-11.html" target="blank">Lession 11</a> - select and option</li>
+
+	<li> <a href="ex-12.html" target="blank">Lession 12</a> - button and click</li>
 
 	</ul>
 
